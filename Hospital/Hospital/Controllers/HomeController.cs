@@ -26,5 +26,7 @@ namespace Hospital.Controllers
 
             return View();
         }
+
+       
     }
 }
