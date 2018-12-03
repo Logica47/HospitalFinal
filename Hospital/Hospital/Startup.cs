@@ -10,5 +10,6 @@ namespace Hospital
         {
             ConfigureAuth(app);
         }
+
     }
 }
